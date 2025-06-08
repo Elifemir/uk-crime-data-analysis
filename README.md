@@ -1,2 +1,2 @@
-# uk-crime-data-analysis
+# essex-crime-data-analysis
 Basic data analysis project using UK crime data and Python.
